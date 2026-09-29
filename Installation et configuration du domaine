@@ -1,0 +1,22 @@
+01 - Installation et configuration du domaine
+Objectif
+Mise en place d'un domaine Active Directory dans un environnement Windows Server 2022.
+
+Configuration
+Serveur : SRV-AD01
+Rôle : Services de domaine Active Directory (AD DS)
+Rôle DNS : installé et configuré
+Adresse IP : 192.168.10.10
+Masque : 255.255.255.0
+Domaine : MQ5.LAN
+Étapes réalisées
+Installation de Windows Server 2022
+Renommer la machine
+Configuration de l'adresse IP fixe
+Installation du rôle AD DS
+Installation et configuration du DNS
+Installation et configuration DHCP
+Création du domaine Active Directory
+Vérification du fonctionnement du domaine
+Validation
+Des captures d'écran seront ajoutées pour présenter les différentes étapes de configuration et les tests réalisés.
